@@ -11,6 +11,8 @@ creator:
     gutenberg_agent_id: '31790'
     url: http://www.gutenberg.org/2009/agents/31790
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15823#Voyages-abracadabrants-du-gros-Phil-as
 gutenberg_bookshelf: FR Jeunesse
 gutenberg_issued: '2005-05-12'
 gutenberg_type: Text
