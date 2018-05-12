@@ -1,0 +1,27 @@
+_repo: Voyages-abracadabrants-du-gros-Phil-as_15823
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Pitray, Olga de Ségur, vicomtesse
+    alias: Pitray, Olga de Segur, vicomtesse
+    birthdate: 1835
+    gutenberg_agent_id: '31790'
+    url: http://www.gutenberg.org/2009/agents/31790
+description: ''
+gutenberg_bookshelf: FR Jeunesse
+gutenberg_issued: '2005-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15823'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children''s stories'
+- !lcc 'PZ'
+title: Voyages abracadabrants du gros Philéas
+url: http://www.gutenberg.org/ebooks/15823
